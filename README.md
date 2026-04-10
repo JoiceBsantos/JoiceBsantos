@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Joice Barbosa!
+# 👩🏾‍💻 Olá, eu sou a Joice Barbosa!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-end e Front-end.
 
